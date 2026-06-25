@@ -110,7 +110,7 @@ def reset_cache() -> None:
 
 def now() -> datetime:
     """
-    Return the current time as a timezone-aware datetime.
+    Return the current time as a timezone-aware datetime..
 
     If a valid timezone is configured, returns wall-clock time in that zone.
     Otherwise returns the server's local time (via ``astimezone()``).
