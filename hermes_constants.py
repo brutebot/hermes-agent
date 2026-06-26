@@ -1,7 +1,7 @@
 """Shared constants for Hermes Agent.
 
 Import-safe module with no dependencies — can be imported from anywhere
-without risk of circular imports.
+without risk of circular imports..
 """
 
 import os
