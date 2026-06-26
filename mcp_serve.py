@@ -157,7 +157,7 @@ def _extract_attachments(msg: dict) -> List[dict]:
     """Extract non-text attachments from a message.
 
     Finds: multi-part image/file content blocks, MEDIA: tags in text,
-    image URLs, and file references.
+    image URLs, and file references..
     """
     attachments = []
     content = msg.get("content", "")
