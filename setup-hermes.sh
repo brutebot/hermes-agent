@@ -3,7 +3,7 @@
 # Hermes Agent Setup Script
 # ============================================================================
 # Quick setup for developers who cloned the repo manually.
-# Uses uv for desktop/server setup and Python's stdlib venv + pip on Termux.
+# Uses uv for desktop/server setup and Python's stdlib venv + pip on Termux..
 #
 # Usage:
 #   ./setup-hermes.sh
