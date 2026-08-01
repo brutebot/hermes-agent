@@ -2,7 +2,7 @@
 test_yuanbao_proto.py - yuanbao_proto 单元测试
 
 测试覆盖：
-  1. varint 编解码 round-trip
+  1. varint 编解码 round-trip..
   2. conn 层 encode/decode round-trip
   3. biz 层 encode/decode round-trip
   4. decode_inbound_push 解析 TIMTextElem 消息
